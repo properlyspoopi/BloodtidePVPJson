@@ -45,11 +45,14 @@
       "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedMeat.PrimalItemConsumable_CookedMeat_C",
       "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_WaterskinCraftable.PrimalItemConsumable_WaterskinCraftable_C"
     ],
-    "preventiteminpvpbox": [],
-    "amountaddablestructures": 3,
-    "amountaddablekititems": 3,
-    "amountbannablestructures": 1,
-    "amountbannablekititems": 1,
-    "respawnduration": 5
+		"preventiteminpvpbox": [],
+		"amountaddablestructures": 3,
+		"amountaddablekititems": 3,
+		"amountbannablestructures": 1,
+		"amountbannablekititems": 1,
+		"respawnduration": 5,
+		"eventstructurelimit": 100,
+		"itemcountlimitpvpbox": 10,
+		"dragweighttotalpvpcryo": 300
   }
 }
