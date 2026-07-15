@@ -184,13 +184,13 @@
       "/Game/PrimalEarth/Dinos/Yutyrannus/Yutyrannus_Character_BP.Yutyrannus_Character_BP_C"
     ],
 
-    "amountaddablestructures": 3,
+  "amountaddablestructures": 3,
     "amountaddablekititems": 3,
     "amountbannablestructures": 1,
     "amountbannablekititems": 1,
-    "respawnduration": 5,
-    "eventstructurelimit": 100,
-    "itemcountlimitpvpbox": 10,
+    "respawnduration": 15,
+    "eventstructurelimit": 50,
+    "itemcountlimitpvpbox": 5,
     "dragweighttotalpvpcryo": 300
   }
 }
