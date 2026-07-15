@@ -46,7 +46,9 @@
       		"/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_IcedWaterJar.PrimalItemConsumable_IcedWaterJar_C",
 
     ],
-		"preventiteminpvpbox": [],
+		"preventiteminpvpbox": [
+"/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP_C"
+], 
 		"amountaddablestructures": 3,
 		"amountaddablekititems": 3,
 		"amountbannablestructures": 1,
