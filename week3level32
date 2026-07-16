@@ -56,7 +56,6 @@
       		"/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_ArrowTranq.PrimalItemAmmo_ArrowTranq_C",
       		"/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponStoneClub.PrimalItem_WeaponStoneClub_C",
       		"/Game/ScorchedEarth/WeaponBoomerang/PrimalItem_WeaponBoomerang.PrimalItem_WeaponBoomerang_C",
-      		"/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponBola.PrimalItem_WeaponBola_C",
       		"/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_ArrowStone.PrimalItemAmmo_ArrowStone_C",
       		"/Game/PrimalEarth/Test/PrimalItem_BloodExtractor.PrimalItem_BloodExtractor_C",
       		"/Game/PrimalEarth/Test/PrimalItem_WeaponSpyglass.PrimalItem_WeaponSpyglass_C",
@@ -174,9 +173,9 @@
     "amountaddablekititems": 3,
     "amountbannablestructures": 1,
     "amountbannablekititems": 1,
-    "respawnduration": 5,
-    "eventstructurelimit": 100,
-    "itemcountlimitpvpbox": 10,
+    "respawnduration": 15,
+    "eventstructurelimit": 50,
+    "itemcountlimitpvpbox": 5,
     "dragweighttotalpvpcryo": 300
   }
 }
