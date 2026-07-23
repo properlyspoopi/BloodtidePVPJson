@@ -1,7 +1,7 @@
 {
   "PVPConfig": {
-    "mineventinterval": 7200,
-    "maxeventinterval": 28800,
+    "mineventinterval": 9999998,
+"maxeventinterval": 9999999,
     "defaultstructureitempool": [
       "/Game/PrimalEarth/CoreBlueprints/Items/Structures/Thatch/PrimalItemStructure_ThatchFloor.PrimalItemStructure_ThatchFloor_C",
       "/Game/PrimalEarth/CoreBlueprints/Items/Structures/Thatch/PrimalItemStructure_ThatchWall.PrimalItemStructure_ThatchWall_C",
