@@ -30,6 +30,12 @@
       "/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalWall.PrimalItemStructure_MetalWall_C",
       "/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalSpikeWall.PrimalItemStructure_MetalSpikeWall_C",
       "/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_StorageBox_Large.PrimalItemStructure_StorageBox_Large_C",
+      "/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Bed_Modern.PrimalItemStructure_Bed_Modern_C",
+      "/Game/Aberration/Structures/CliffPlatforms/Metal_CliffPlatform/PrimalItemStructure_Metal_CliffPlatform.PrimalItemStructure_Metal_CliffPlatform_C",
+      "/Game/PrimalEarth/CoreBlueprints/Items/Structures/Pipes/PrimalItemStructure_PowerGenerator.PrimalItemStructure_PowerGenerator_C",
+      "/Game/ScorchedEarth/Structures/WindTurbine/PrimalItemStructure_WindTurbine.PrimalItemStructure_WindTurbine_C",
+      "/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_LamppostOmni.PrimalItemStructure_LamppostOmni_C",
+      "/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Lamppost.PrimalItemStructure_Lamppost_C",
       "/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_BearTrap.PrimalItemStructure_BearTrap_C",
       "/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_BearTrap_Large.PrimalItemStructure_BearTrap_Large_C",
       "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponPoisonTrap.PrimalItem_WeaponPoisonTrap_C",
@@ -39,11 +45,11 @@
     ],
 
     "defaultkititempool": [
-      "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Chitin/PrimalItemArmor_ChitinBoots.PrimalItemArmor_ChitinBoots_C",
-      "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Chitin/PrimalItemArmor_ChitinShirt.PrimalItemArmor_ChitinShirt_C",
-      "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Chitin/PrimalItemArmor_ChitinGloves.PrimalItemArmor_ChitinGloves_C",
-      "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Chitin/PrimalItemArmor_ChitinHelmet.PrimalItemArmor_ChitinHelmet_C",
-      "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Chitin/PrimalItemArmor_ChitinPants.PrimalItemArmor_ChitinPants_C",
+      "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalBoots.PrimalItemArmor_MetalBoots_C",
+      "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalShirt.PrimalItemArmor_MetalShirt_C",
+      "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalGloves.PrimalItemArmor_MetalGloves_C",
+      "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalHelmet.PrimalItemArmor_MetalHelmet_C",
+      "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalPants.PrimalItemArmor_MetalPants_C",
       "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalPick.PrimalItem_WeaponMetalPick_C",
       "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalHatchet.PrimalItem_WeaponMetalHatchet_C",
       "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponCrossbow.PrimalItem_WeaponCrossbow_C",
@@ -68,7 +74,17 @@
       "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponFlareGun.PrimalItem_WeaponFlareGun_C",
       "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponOneShotRifle.PrimalItem_WeaponOneShotRifle_C",
       "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Shields/PrimalItemArmor_MetalShield.PrimalItemArmor_MetalShield_C",
-      "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_PoisonGrenade.PrimalItem_PoisonGrenade_C"
+      "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_PoisonGrenade.PrimalItem_PoisonGrenade_C",
+      "/Game/ScorchedEarth/WeaponChainsaw/PrimalItem_ChainSaw.PrimalItem_ChainSaw_C",
+      "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedPistol.PrimalItem_WeaponMachinedPistol_C",
+      "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedShotgun.PrimalItem_WeaponMachinedShotgun_C",
+      "/Game/Packs/Wasteland/Weapons/ExplosiveSpear/PrimalItem_WeaponSpear_Explosive.PrimalItem_WeaponSpear_Explosive_C",
+      "/Game/Packs/Wasteland/Weapons/AntiFireGrenade/PrimalItem_AntifireGrenade.PrimalItem_AntifireGrenade_C",
+      "/Game/LostColony/Weapons/FabricatedCrossbow/PrimalItem_WeaponCrossbow_Fab.PrimalItem_WeaponCrossbow_Fab_C",
+      "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_TranqDart.PrimalItemAmmo_TranqDart_C",
+      "/Game/Aberration/CoreBlueprints/Items/Armor/PrimalItemArmor_Glider.PrimalItemArmor_Glider_C",
+      "/Game/ScorchedEarth/WeaponFlamethrower/PrimalItem_WeapFlamethrower.PrimalItem_WeapFlamethrower_C",
+
     ],
 
     "preventiteminpvpbox": [
