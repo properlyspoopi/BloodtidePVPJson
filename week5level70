@@ -116,6 +116,6 @@
     "respawnduration": 15,
     "eventstructurelimit": 50,
     "itemcountlimitpvpbox": 5,
-    "dragweighttotalpvpcryo": 600
+    "dragweighttotalpvpcryo": 1000
   }
 }
