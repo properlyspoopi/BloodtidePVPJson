@@ -1,7 +1,7 @@
 {
   "PVPConfig": {
-    "mineventinterval": 7200,
-    "maxeventinterval": 7201,
+    "mineventinterval": 999999,
+    "maxeventinterval": 999999,
     "defaultstructureitempool": [
       "/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalFloor.PrimalItemStructure_MetalFloor_C",
       "/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalWall.PrimalItemStructure_MetalWall_C",
